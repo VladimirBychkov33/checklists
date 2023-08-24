@@ -13,7 +13,7 @@
     
 
 * ## GeekTest
-    ## [Техническое задание](https://docs.google.com/document/d/1vS1A2lISyA9_-2J-gqDf88b44gIOWCUK1--zs6qFqMo/edit?usp=sharing)
+    ### [Техническое задание](https://docs.google.com/document/d/1vS1A2lISyA9_-2J-gqDf88b44gIOWCUK1--zs6qFqMo/edit?usp=sharing)
 
     ### [Чек-лист](https://docs.google.com/spreadsheets/d/1sHwUEjoyO5hq08YYoIHc9j2xKcri3nP5gXoN66a5rbE/edit?usp=sharing)
 
@@ -21,7 +21,7 @@
     
  ---
  ---
-    
+
 
 
 
